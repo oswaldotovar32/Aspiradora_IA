@@ -8,7 +8,11 @@ en la opción Run File.
 
 
 Integrantes:
+
   Eder Roberto Ramos Rodriguez - 16460516
+  
   Luis Oswaldo Tovar Olivera - 16460445
+  
+  
   
  Solo nosotros hicimos el proyecto. Equipo de dos personas.
